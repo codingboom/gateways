@@ -1,6 +1,6 @@
-# Money Transfer
+# Gateways
 
-How to start the moneytransfer application
+How to start the gateways application
 ---
 
 1. Run `mvn clean install` to build your application
